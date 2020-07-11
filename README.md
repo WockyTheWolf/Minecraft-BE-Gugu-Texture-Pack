@@ -1,4 +1,4 @@
-# Minecraft-BE-Gugu-Texture-Pack
+# Minecraft Bedrock - 咕咕材质包
 A Minecraft Texturepack made by 沃奇 & 周
 
 周：https://space.bilibili.com/314189346
