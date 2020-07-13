@@ -2,7 +2,7 @@
     "format_version": 2,
     "header": {
         "description": "A texturepack made by WockyTheWolf and HeyZhou",
-        "name": "咕咕材质包",
+        "name": "咕咕材质包 v0.0.5",
         "uuid": "39974c48-71d5-4b95-ac98-9ef59aa12e87",
         "version": [0, 0, 5],
         "min_engine_version": [ 1, 16, 1 ]
