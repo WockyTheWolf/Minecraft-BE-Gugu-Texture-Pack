@@ -10,8 +10,9 @@ A Minecraft Texturepack made by 沃奇 & 周
 音乐文件: ~/sounds/
 	唱片文件: ~/sounds/music/game/records/
 	
-文本文件：~/texts/
+文本文件: ~/texts/
 
-材质文件：~/textures/
-	画的材质：~/textures/painting/kz.png
+材质文件: ~/textures/
+	画的材质: ~/textures/painting/kz.png
 	
+注意：与其他材质包共用时，请将此材质包置于最上方以获得最佳体验。
