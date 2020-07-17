@@ -16,3 +16,5 @@ A Minecraft Texturepack made by 沃奇 & 周
 	画的材质: ~/textures/painting/kz.png
 	
 注意：与其他材质包共用时，请将此材质包置于最上方以获得最佳体验。
+
+已知问题：与其他材质包使用时可能会出现皮肤鬼畜问题，正在进行修复
