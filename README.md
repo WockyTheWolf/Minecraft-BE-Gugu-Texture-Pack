@@ -1,5 +1,5 @@
 # Minecraft Bedrock Edition - 咕咕材质包
-A Minecraft Texturepack made by 沃奇 & 周
+A Minecraft Texturepack made by 沃奇 & 时敏
 
 [时敏的B站空间](https://space.bilibili.com/314189346)
 
